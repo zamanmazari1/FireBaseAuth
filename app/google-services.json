@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "214458594599",
+    "project_id": "tes-firebase-7e9f3",
+    "storage_bucket": "tes-firebase-7e9f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214458594599:android:3e811fd445de59733e2502",
+        "android_client_info": {
+          "package_name": "com.example.tesfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV7FpZ5iny6ZT8ocRj6lvk-7dBk2zc0bM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
